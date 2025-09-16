@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Understanding Personal Loans in South Africa",
+    "excerpt": "A comprehensive guide to personal loans, including eligibility, interest rates, and repayment options available in the South African market.",
+    "body": "Personal loans in South Africa are a popular way to access quick financing without the need to secure assets as collateral. Banks, micro-lenders, and fintech platforms all offer these products, typically ranging from R2,000 up to R350,000 depending on your income and credit score. Interest rates are determined by the prime lending rate set by the South African Reserve Bank (SARB) plus a margin based on your creditworthiness. Repayment terms vary from 6 months to 72 months. To qualify, you generally need proof of income, a valid ID, and a positive credit history. Borrowers should always compare fees, initiation costs, and insurance add-ons before signing.",
+    "image": "https://example.com/loan-guide.jpg",
+    "timestamp": "2024-09-01T10:00:00Z",
+    "category": "loans"
+  },
+  {
+    "id": "2",
+    "title": "Top 5 Fintech Apps for South African Users",
+    "excerpt": "Discover the most popular fintech applications helping South Africans manage their finances, from budgeting to investing.",
+    "body": "Fintech adoption is growing rapidly in South Africa, with apps offering solutions for budgeting, saving, and investing. 22seven by Old Mutual helps users track spending and set financial goals. EasyEquities has become a leading platform for beginner investors with low entry requirements. Luno enables crypto trading in Bitcoin and Ethereum with simple onboarding. Spot Money offers multi-banking services and budgeting tools. TymeBank provides low-fee digital banking, free debit cards, and GoalSave accounts. Each of these apps has unique strengths, making them suitable for different financial needs.",
+    "image": "https://example.com/fintech-apps.jpg",
+    "timestamp": "2024-08-28T14:30:00Z",
+    "category": "fintech"
+  },
+  {
+    "id": "3",
+    "title": "Common Financial Scams to Avoid",
+    "excerpt": "Learn about the latest financial scams targeting South Africans and how to protect yourself from fraud and identity theft.",
+    "body": "South Africans are frequently targeted by scams ranging from fake investment schemes to phishing emails. Common tactics include fraudsters posing as bank representatives requesting one-time PINs (OTPs), pyramid investment opportunities promising unrealistic returns, and loan sharks offering 'instant loans' without credit checks. SIM-swap fraud, where criminals hijack your cellphone number to access bank accounts, is also rising. To stay safe, never share OTPs, always confirm company credentials with the FSCA, and be cautious of deals that sound too good to be true.",
+    "image": "https://example.com/scams.jpg",
+    "timestamp": "2024-08-25T09:15:00Z",
+    "category": "scams"
+  },
+  {
+    "id": "4",
+    "title": "SARS Tax Season Updates for 2024/2025",
+    "excerpt": "Stay informed about the latest changes to tax brackets, deductions, and filing requirements for the upcoming tax season.",
+    "body": "For the 2024/2025 tax year, SARS has adjusted the tax brackets to provide relief for middle-income earners. The primary rebate has increased, meaning individuals earning less than R95,750 annually will not pay income tax. Medical tax credits have also been adjusted slightly upwards, while the retirement annuity contribution deduction remains capped at 27.5% of taxable income. SARS has emphasized eFiling and the auto-assessment process to speed up refunds. Penalties for late submission remain strict, so taxpayers should ensure they file before the deadline.",
+    "image": "https://example.com/tax-updates.jpg",
+    "timestamp": "2024-08-20T16:45:00Z",
+    "category": "news"
+  },
+  {
+    "id": "5",
+    "title": "Building Credit Score in South Africa",
+    "excerpt": "Tips and strategies for improving your credit score, including the importance of timely payments and debt management.",
+    "body": "A healthy credit score improves your chances of accessing loans at lower interest rates. In South Africa, credit bureaus like TransUnion, Experian, and Compuscan track your repayment history. To build your score, pay bills and debts on time, avoid maxing out credit cards, and keep your debt-to-income ratio below 30%. Opening a small credit facility such as a store account and repaying it diligently can help. Checking your credit report for errors annually is also recommended.",
+    "image": "https://example.com/credit-score.jpg",
+    "timestamp": "2024-08-18T11:20:00Z",
+    "category": "loans"
+  },
+  {
+    "id": "6",
+    "title": "Cryptocurrency Regulations in South Africa",
+    "excerpt": "An overview of the current regulatory landscape for cryptocurrencies and digital assets in South Africa.",
+    "body": "Cryptocurrencies in South Africa fall under the oversight of the Financial Sector Conduct Authority (FSCA). Crypto assets are not recognized as legal tender, but they are categorized as financial products under FAIS, requiring service providers to be licensed. The South African Reserve Bank has also issued guidance warning of risks such as volatility and fraud. Exchanges must register as accountable institutions under FICA, meaning they must perform KYC checks. Despite regulatory caution, adoption is growing, with Bitcoin and Ethereum being the most widely traded.",
+    "image": "https://example.com/crypto-regs.jpg",
+    "timestamp": "2024-08-15T13:00:00Z",
+    "category": "fintech"
+  },
+  {
+    "id": "7",
+    "title": "Investment Options for Beginners",
+    "excerpt": "Explore various investment opportunities available to South African investors, from unit trusts to ETFs.",
+    "body": "For South Africans new to investing, options include unit trusts, which pool investors’ money into diversified funds managed by professionals. Exchange-Traded Funds (ETFs) offer a low-cost way to invest in the JSE Top 40 or global markets. Government retail bonds are secure but offer lower returns. For higher risk, investors can explore equities or property investments. Platforms like EasyEquities and Satrix make it simple to start with as little as R5. The key is to balance risk and return based on your goals.",
+    "image": "https://example.com/investments.jpg",
+    "timestamp": "2024-08-12T10:30:00Z",
+    "category": "news"
+  },
+  {
+    "id": "8",
+    "title": "Protecting Your Finances Online",
+    "excerpt": "Essential cybersecurity tips for safeguarding your financial information in the digital age.",
+    "body": "With the rise of digital banking, online safety is critical. Use strong, unique passwords and enable two-factor authentication on all financial apps. Avoid public Wi-Fi when accessing sensitive accounts. Regularly update your devices and apps to patch vulnerabilities. Be wary of phishing emails or fake banking apps. Always verify banking URLs and never click suspicious links. Cyber insurance products are also becoming popular in South Africa for extra protection.",
+    "image": "https://example.com/online-security.jpg",
+    "timestamp": "2024-08-10T15:45:00Z",
+    "category": "scams"
+  },
+  {
+    "id": "9",
+    "title": "South African Prime Lending Rate Drops to 10.50%",
+    "excerpt": "The SARB today reduced the prime lending rate to a 2025 low of 10.50%, making loans more affordable for South Africans.",
+    "body": "The South African Reserve Bank has reduced the repo rate by 50 basis points, leading to a new prime lending rate of 10.50%. This move is aimed at stimulating borrowing and supporting economic growth. For consumers, this means lower monthly repayments on variable-rate loans such as mortgages, car finance, and credit facilities. Analysts expect the rate cut to boost household spending but caution that inflation risks remain, especially with global oil prices rising.",
+    "image": "https://example.com/rate-cut.jpg",
+    "timestamp": "2025-08-01T00:00:00Z",
+    "category": "news"
+  },
+  {
+    "id": "10",
+    "title": "Fintech Startups to Watch in South Africa",
+    "excerpt": "Emerging fintechs like Tata-iMali, Turnstay, Sticitt, and UsPlus are showing innovation in payments, credit access, and education.",
+    "body": "South Africa’s fintech ecosystem is vibrant, with startups addressing financial inclusion and efficiency. Tata-iMali focuses on community-based savings and lending. Turnstay is innovating in small business credit by using alternative data for scoring. Sticitt offers payment solutions tailored for schools, while UsPlus provides working capital for SMEs through invoice discounting. These startups highlight the growing diversity of financial technology in the country, with venture capital funding on the rise.",
+    "image": "https://example.com/fintech-startups.jpg",
+    "timestamp": "2025-08-11T00:00:00Z",
+    "category": "fintech"
+  },
+  {
+    "id": "11",
+    "title": "Reduced Interest-Free Loan Tax Rate Effective June 2025",
+    "excerpt": "SARS lowered the taxable rate for interest-free or low-interest loans to 8.25%, effective June 1, 2025.",
+    "body": "The South African Revenue Service has announced that the deemed interest rate for low or interest-free loans will be reduced to 8.25%. This is the rate applied when employers or trusts grant loans to employees or beneficiaries without charging market-related interest. The adjustment aligns with the prime rate decrease and provides relief for taxpayers. Companies should review existing loan agreements to ensure compliance with the updated tax regulations.",
+    "image": "https://example.com/tax-rate.jpg",
+    "timestamp": "2025-06-01T00:00:00Z",
+    "category": "news"
+  },
+  {
+    "id": "12",
+    "title": "TymeBank Reaches 9 Million Customers",
+    "excerpt": "TymeBank, SA’s first online-only bank, hits 9 million users and breaks even. Plans expansion with zero-fee debit cards and digital insurance.",
+    "body": "TymeBank has become one of South Africa’s fastest-growing banks, reaching 9 million customers in under six years. The bank’s low-fee model, offering free debit cards and affordable GoalSave accounts, has appealed to cost-conscious consumers. It has now reached break-even and is expanding into financial services such as digital insurance and personal loans. With partnerships at major retailers, TymeBank is set to further disrupt the traditional banking landscape.",
+    "image": "https://example.com/tymebank.jpg",
+    "timestamp": "2024-12-01T00:00:00Z",
+    "category": "fintech"
+  }
+]

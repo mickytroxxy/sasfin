@@ -8,7 +8,7 @@ import { useColorScheme } from '@/hooks/useColorScheme';
 
 export function useThemeColor(
   props: { light?: string; dark?: string },
-  colorName: keyof typeof Colors.light & keyof typeof Colors.dark
+  colorName: keyof typeof Colors
 ) {
   const theme = useColorScheme() ?? 'light';
   const colorFromProps = props[theme];
@@ -16,6 +16,8 @@ export function useThemeColor(
   if (colorFromProps) {
     return colorFromProps;
   } else {
-    return Colors[theme][colorName];
+    // For the new flat color structure, return the color directly
+    // Since we don't have light/dark variants anymore, just return the color
+    return Colors[colorName as keyof typeof Colors] || Colors.background;
   }
 }

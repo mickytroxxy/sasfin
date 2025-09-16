@@ -1,26 +1,17 @@
 /**
- * Below are the colors that are used in the app. The colors are defined in the light and dark mode.
- * There are many other ways to style your app. For example, [Nativewind](https://www.nativewind.dev/), [Tamagui](https://tamagui.dev/), [unistyles](https://reactnativeunistyles.vercel.app), etc.
+ * Finance Hub SA Color Scheme
+ * Primary: Sky Blue, Secondary: Silver, Accent: Navy Blue, Background: White
  */
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
-
 export const Colors = {
-  light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
-  },
-  dark: {
-    text: '#ECEDEE',
-    background: '#151718',
-    tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
-  },
+  primary: '#87CEEB', // Sky Blue
+  secondary: '#C0C0C0', // Silver
+  accent: '#09093fff', // Navy Blue
+  background: '#FFFFFF', // White
+  text: '#333333', // Dark Gray for text
+  textLight: '#666666', // Light Gray for secondary text
+  border: '#E0E0E0', // Light border
+  success: '#28A745', // Green for success states
+  error: '#DC3545', // Red for error states
+  warning: '#FFC107', // Yellow for warnings
 };
